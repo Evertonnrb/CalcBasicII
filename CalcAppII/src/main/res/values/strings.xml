@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppFDP</string>
+    <string name="exibir_mensagem">Digite dois números</string>
+    <string name="btnSoma"> + </string>
+    <string name="btnSub"> - </string>
+    <string name="btnMult"> * </string>
+    <string name="btnDiv"> / </string>
+
+</resources>
